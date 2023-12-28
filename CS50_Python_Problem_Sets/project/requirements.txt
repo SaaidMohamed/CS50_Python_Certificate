@@ -1,0 +1,6 @@
+pip install playsound==1.2.2
+pip install gTTS
+pip install AppOpener
+pip install speech_recognition
+pip3 install pocketsphinx
+PyAudio
